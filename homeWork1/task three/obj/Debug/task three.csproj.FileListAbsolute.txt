@@ -1,0 +1,7 @@
+C:\Users\йешуа\source\repos\homeWork1\task three\bin\Debug\task three.exe.config
+C:\Users\йешуа\source\repos\homeWork1\task three\bin\Debug\task three.exe
+C:\Users\йешуа\source\repos\homeWork1\task three\bin\Debug\task three.pdb
+C:\Users\йешуа\source\repos\homeWork1\task three\obj\Debug\task three.csproj.CoreCompileInputs.cache
+C:\Users\йешуа\source\repos\homeWork1\task three\obj\Debug\task three.exe
+C:\Users\йешуа\source\repos\homeWork1\task three\obj\Debug\task three.pdb
+C:\Users\йешуа\source\repos\homeWork1\task three\obj\Debug\task three.csprojResolveAssemblyReference.cache

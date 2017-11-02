@@ -1,0 +1,7 @@
+C:\Users\йешуа\source\repos\homeWork1\task one\bin\Debug\task one.exe.config
+C:\Users\йешуа\source\repos\homeWork1\task one\bin\Debug\task one.exe
+C:\Users\йешуа\source\repos\homeWork1\task one\bin\Debug\task one.pdb
+C:\Users\йешуа\source\repos\homeWork1\task one\obj\Debug\task one.csprojResolveAssemblyReference.cache
+C:\Users\йешуа\source\repos\homeWork1\task one\obj\Debug\task one.csproj.CoreCompileInputs.cache
+C:\Users\йешуа\source\repos\homeWork1\task one\obj\Debug\task one.exe
+C:\Users\йешуа\source\repos\homeWork1\task one\obj\Debug\task one.pdb

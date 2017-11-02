@@ -1,0 +1,7 @@
+C:\Users\йешуа\source\repos\homeWork1\task five\bin\Debug\task five.exe.config
+C:\Users\йешуа\source\repos\homeWork1\task five\bin\Debug\task five.exe
+C:\Users\йешуа\source\repos\homeWork1\task five\bin\Debug\task five.pdb
+C:\Users\йешуа\source\repos\homeWork1\task five\obj\Debug\task five.csproj.CoreCompileInputs.cache
+C:\Users\йешуа\source\repos\homeWork1\task five\obj\Debug\task five.exe
+C:\Users\йешуа\source\repos\homeWork1\task five\obj\Debug\task five.pdb
+C:\Users\йешуа\source\repos\homeWork1\task five\obj\Debug\task five.csprojResolveAssemblyReference.cache
