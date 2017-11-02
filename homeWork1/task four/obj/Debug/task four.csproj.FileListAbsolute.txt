@@ -1,7 +1,0 @@
-C:\Users\йешуа\source\repos\homeWork1\task four\bin\Debug\task four.exe.config
-C:\Users\йешуа\source\repos\homeWork1\task four\bin\Debug\task four.exe
-C:\Users\йешуа\source\repos\homeWork1\task four\bin\Debug\task four.pdb
-C:\Users\йешуа\source\repos\homeWork1\task four\obj\Debug\task four.csprojResolveAssemblyReference.cache
-C:\Users\йешуа\source\repos\homeWork1\task four\obj\Debug\task four.csproj.CoreCompileInputs.cache
-C:\Users\йешуа\source\repos\homeWork1\task four\obj\Debug\task four.exe
-C:\Users\йешуа\source\repos\homeWork1\task four\obj\Debug\task four.pdb
