@@ -6,50 +6,54 @@ using System.Threading.Tasks;
 
 namespace homeWork3
 {
-    //struct Complex
-    //{
-    //    public double im;
-    //    public double re;
-    //    public Complex Plus(Complex x)
-    //    {
-    //        Complex y;
-    //        y.im = im + x.im;
-    //        y.re = re + x.re;
-    //        return y;
-    //    }
-    //    public Complex Minus(Complex x)
-    //    {
-    //        Complex y;
-    //        y.im = im - x.im;
-    //        y.re = re - x.re;
-    //        return y;
-    //    }
-    //    public Complex Multi(Complex x)
-    //    {
-    //        Complex y;
-    //        y.im = x.im * re + x.re * im;
-    //        y.re = x.re * re - x.im * im;
-    //        return y;
-    //    }
-    //    public string FormatComplexToString()
-    //    {
-    //        if(im < 0)
-    //        {
-    //            if(re < 0)
-    //            {
-    //                return "(" + re + ")" + "+" + "(" + im + ")" + "i";
-    //            }
-    //            else
-    //            {
-    //                return re + "+" + "(" + im + ")" + "i";
-    //            }
-    //        }
-    //        else
-    //        {
-    //            return re + "+" + im + "i";
-    //        }
-    //    }
-    //}
+    //Шкрабов Александр
+    //1. а) Дописать структуру Complex, добавив метод вычитания комплексных чисел.Продемонстрировать работу структуры;
+
+    //   б) Дописать класс Complex, добавив методы вычитания и произведения чисел.Проверить работу класса;
+    struct Complex
+    {
+        public double im;
+        public double re;
+        public Complex Plus(Complex x)
+        {
+            Complex y;
+            y.im = im + x.im;
+            y.re = re + x.re;
+            return y;
+        }
+        public Complex Minus(Complex x)
+        {
+            Complex y;
+            y.im = im - x.im;
+            y.re = re - x.re;
+            return y;
+        }
+        public Complex Multi(Complex x)
+        {
+            Complex y;
+            y.im = x.im * re + x.re * im;
+            y.re = x.re * re - x.im * im;
+            return y;
+        }
+        public string FormatComplexToString()
+        {
+            if (im < 0)
+            {
+                if (re < 0)
+                {
+                    return "(" + re + ")" + "+" + "(" + im + ")" + "i";
+                }
+                else
+                {
+                    return re + "+" + "(" + im + ")" + "i";
+                }
+            }
+            else
+            {
+                return re + "+" + im + "i";
+            }
+        }
+    }
     class Complex
     {
         public double im;
@@ -105,19 +109,19 @@ namespace homeWork3
         static void Main(string[] args)
         {
             #region by structure
-            //Complex a;
-            //a.im = 2;
-            //a.re = 3;
-            //Complex b;
-            //b.im = 4;
-            //b.re = 5;
-            //Complex c = a.Plus(b);
-            //Console.WriteLine(c.FormatComplexToString());
-            //c = a.Minus(b);
-            //Console.WriteLine(c.FormatComplexToString());
-            //c = a.Multi(b);
-            //Console.WriteLine(c.FormatComplexToString());
-            //Console.ReadKey();
+            Complex a;
+            a.im = 2;
+            a.re = 3;
+            Complex b;
+            b.im = 4;
+            b.re = 5;
+            Complex c = a.Plus(b);
+            Console.WriteLine(c.FormatComplexToString());
+            c = a.Minus(b);
+            Console.WriteLine(c.FormatComplexToString());
+            c = a.Multi(b);
+            Console.WriteLine(c.FormatComplexToString());
+            Console.ReadKey();
             #endregion
             #region by class
             Complex a = new Complex
